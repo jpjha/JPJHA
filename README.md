@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jay prakash jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay prakash jha" height="30" width="40" /></a>
-<a href="https://kaggle.com/jp jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jp jha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/jp9582" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/jp9582" height="30" width="40" /></a>
+<a href="https://kaggle.com/jayprakashjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jayprakashjha" height="30" width="40" /></a>
 <a href="https://instagram.com/jp_jha23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jp_jha23" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/jp_5070" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jp_5070" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jp_jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jp_jha" height="30" width="40" /></a>
